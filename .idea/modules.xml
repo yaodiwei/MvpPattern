@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MvpPattern.iml" filepath="$PROJECT_DIR$/MvpPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-mvp/base-mvp.iml" filepath="$PROJECT_DIR$/base-mvp/base-mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enhance-mvp/enhance-mvp.iml" filepath="$PROJECT_DIR$/enhance-mvp/enhance-mvp.iml" />
+    </modules>
+  </component>
+</project>
